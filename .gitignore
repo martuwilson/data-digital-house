@@ -1,5 +1,7 @@
 # Archivos de datos raw
 data/raw/
+# Archivos de datos limpios
+data/clean/
 
 # Archivos de Python
 __pycache__/
